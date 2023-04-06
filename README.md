@@ -21,6 +21,7 @@ Here are the organizations currently engaged in the Carbon Agri Data Space:
 
 ## CADS principles
 In order to initiate the Carbon Agri Data Space, in addition to the i4Trust mentorship, the stakeholders follow the approach supported by the [Data Spaces Support Centre](https://dssc.eu/) (DSSC) described in the [DSSC Starter Kit](https://dssc.eu/wp-content/uploads/2023/03/DSSC-Starterkit-Version-1.0.pdf) and try to adopt the vocabulary referenced on the [DSSC Glossary](https://dssc.eu/wp-content/uploads/2023/03/DSSC-Data-Spaces-Glossary-v1.0.pdf).
+![DSSC](https://gate-ai.eu/wp-content/uploads/2023/01/Logo_DSSS.jpg)
 
 ## Business value and models
 #### How does the data space create value?
@@ -45,3 +46,4 @@ In order to initiate the Carbon Agri Data Space, in addition to the i4Trust ment
 
 ## Technology
 #### What technology stacks (e.g., open source implementations, standard specifications) will you use to create or join a data space?
+See the details about the [CADS technology stack](https://github.com/faubourg-numerique/CADS-Carbon-Agri-Data-Space/blob/main/technology.md) .
